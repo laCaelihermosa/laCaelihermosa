@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 # Current techs
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer from Mexico</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: fabsrig@outlook.com</h3>
 <p align="left">
 </p>
 
