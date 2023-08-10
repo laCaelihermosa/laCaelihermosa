@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me: fabsrig@outlook.com</h3>
 <p align="left">
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </p>
 
 
